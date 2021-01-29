@@ -37,7 +37,7 @@ namespace Labb_1
                     }
                 }
             }
-            Console.WriteLine("\nSum of substrings is: " + ResultOfList(substringList));
+            Console.WriteLine("\nSumman av delsträngen är: " + ResultOfList(substringList));
             Console.WriteLine();
             Console.ReadKey();
         }
